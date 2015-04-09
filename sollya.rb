@@ -2,8 +2,8 @@ require 'formula'
 
 class Sollya < Formula
   homepage 'http://sollya.gforge.inria.fr/'
-  url 'https://gforge.inria.fr/frs/download.php/28571/sollya-3.0.tar.gz'
-  sha1 '29580541d3b5a3a2f64092d495885e2978092467'
+  url 'https://gforge.inria.fr/frs/download.php/33151/sollya-4.1.tar.gz'
+  sha1 'ec8505a7e47d475b88de8e84a8668aa1dc5570c8'
 
   depends_on 'gmp'
   depends_on 'mpfr'
